@@ -980,5 +980,6 @@ section {
 }
 
 iframe{
-  max-height: 650px;
+  min-height: 650px;
+  max-height: 680px;
 }
